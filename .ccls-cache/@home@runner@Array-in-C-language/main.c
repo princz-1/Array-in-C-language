@@ -2,6 +2,11 @@
 #include <stdio.h>
 
 int main(void) {
+  /*Syntex
+    int marks[2];
+    char naem[10];
+    float price[2]
+  */
 int marks[3];
   printf("Enter a marks of science :");
   scanf("%d",&marks[0]);
