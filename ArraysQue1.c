@@ -1,4 +1,4 @@
-//Write a function to countthe number of odd numbers in an array ?
+//Write a function to count the number of odd numbers in an array ?
 
 
 #include <stdio.h>
