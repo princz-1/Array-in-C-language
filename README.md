@@ -118,7 +118,6 @@ printf(). It display the entire content of the array name.
 
 printf("%s", name);
 
-Sweeti kakhani
 
 puts():Same task. It is one parameter function.
 
